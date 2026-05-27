@@ -1,0 +1,25 @@
+# Python
+
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+
+.env
+
+# Node
+
+node_modules/
+
+# Vite Build
+
+dist/
+
+# VS Code
+
+.vscode/
+
+# Mac
+
+.DS_Store
